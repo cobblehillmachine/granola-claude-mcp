@@ -259,7 +259,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - **Issues**: [GitHub Issues](https://github.com/[USERNAME]/granola-claude-mcp/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/[USERNAME]/granola-claude-mcp/discussions)  
-- **Professional Services**: For custom integrations and enterprise deployment, contact [Cobble Hill Digital](https://cobblehilldigital.com)
+- **Professional Services**: For custom integrations and enterprise deployment, contact [Cobble Hill](https://cobblehilldigital.com)
 
 ---
 
