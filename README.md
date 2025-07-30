@@ -265,4 +265,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **⭐ Star this repo if it helps you extract more value from your meetings!**
 
-*Built with ❤️ by the team at [Cobble Hill Digital](https://cobblehilldigital.com) - Boutique AI integration specialists*
+*Built with ❤️ by the team at [Cobble Hill ](https://cobblehilldigital.com) - AI integration specialists*
